@@ -19,9 +19,8 @@ pregunta final Si la responde correctamente, gana el juego. Si no, se sigue
 jugando hasta que alguien lo consiga.
 
 Este programa es un simulador del juego trivia con preguntas de 6 categorias.
-El programa corre en terminal con Python 5. Se preguntarauna pregunta aleatoria
+El programa corre en terminal con Python 3. Se preguntarauna pregunta aleatoria
 de cada una de las categorias, guardando el puntaje. Si contesto correctamente 
 las seis preguntas una pregunta extra es preguntada. El puntaje es guardado en 
-un archivo junto con el nombre del jugador para poder compararlos con los de otros 
-jugadores.
+un archivo junto con el nombre del jugador para poder compararlos con otros puntajes.
 
