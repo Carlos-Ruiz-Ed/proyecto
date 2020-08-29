@@ -1,3 +1,5 @@
+"""En este programa se ocupa el uso de operadores para sumar el puntaje del jugador y para contar el numero
+de pregunta para asi saber cuando ha pasado una pregunta por cada categoria"""
 import os
 import sys
 import random
