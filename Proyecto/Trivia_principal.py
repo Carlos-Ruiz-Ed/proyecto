@@ -1,3 +1,5 @@
+"""Solo hay una pregunta por categoria todavia exepto de entretenimiento
+de esa hay dos"""
 import os #permite realizar operaciones con el sistema operativo por ejemplo abrir archivos 
 import sys #permite usar instruciones diractamente con el interpretador
 import random #permite obtener valores aleatorios
