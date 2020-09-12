@@ -1,18 +1,22 @@
 #Ya fueron agregadas mas preguntas
 
-import os """permite realizar operaciones con el sistema operativo por ejemplo
+import os
+"""permite realizar operaciones con el sistema operativo por ejemplo
 abrir archivos, en el programa se ocupa para mandar a llamar
 los archivos de las preguntas y respuestas e para poder guardar
 las preguntas que sean agregadas."""
 
-import sys """permite usar instruciones diractamente con el
+import sys 
+"""permite usar instruciones diractamente con el
 interpretador en el programa es usado para cerrar el programa."""
 
-import random """permite obtener valores aleatorios, en el programa
+import random 
+"""permite obtener valores aleatorios, en el programa
 se ocupa para obtener indices aleatorios para seleccionar la pregunta
 y para que las respuestas aparescan de diferente forma."""
 
-import pickle """permite serializar variables para almacenarlos mas
+import pickle 
+"""permite serializar variables para almacenarlos mas
 facilmente, se ocupa en el programa para serialzar las variables de
 la base de datos de preguntas y respuestas para poder guardarlos y
 llamarlos de los archivos desde el programa."""
