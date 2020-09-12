@@ -1,3 +1,5 @@
+#Ya fueron agregadas mas preguntas
+
 import os """permite realizar operaciones con el sistema operativo por ejemplo
 abrir archivos, en el programa se ocupa para mandar a llamar
 los archivos de las preguntas y respuestas e para poder guardar
