@@ -1,3 +1,7 @@
+"""
+Las listas se ocupan en la funcion de agregar pregunta para juntar las respuestas con la 
+respectiva pregunta, de igual la informacion de los archivos esta guardada en forma de listas
+"""
 import os
 """permite realizar operaciones con el sistema operativo por ejemplo
 abrir archivos, en el programa se ocupa para mandar a llamar
