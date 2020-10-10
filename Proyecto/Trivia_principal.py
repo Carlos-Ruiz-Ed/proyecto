@@ -1,6 +1,6 @@
 """
-Las listas se ocupan en la funcion de agregar pregunta para juntar las respuestas con la 
-respectiva pregunta, de igual la informacion de los archivos esta guardada en forma de listas
+Las listas anidadas se encuentran en los archivos guradando las preguntas con sus respuestas como una lista
+dentro de una lista con todas las preguntas relacionandolas en un diccionario con la categoria correspondiente
 """
 import os
 """permite realizar operaciones con el sistema operativo por ejemplo
